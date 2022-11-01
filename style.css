@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(to bottom right, #33ccff 0%, #ff99cc 100%) ;
+}
+
 .word-counter-container {
     padding: 10px;
     font-family: "Roboto", sans-serif;
